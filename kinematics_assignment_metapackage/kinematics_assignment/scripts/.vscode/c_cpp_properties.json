@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/yage/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/yage/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/yage/catkin_ws/src/learning_tf2/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
