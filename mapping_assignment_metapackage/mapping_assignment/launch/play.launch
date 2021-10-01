@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+
+<launch>
+  <param name ="/use_sim_time" value="true"/>
+
+  <param name="robot_description" command="$(find xacro)/xacro --inorder $(find turtlebot3_description)/urdf/turtlebot3_burger.urdf.xacro" />
+  <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_state_publisher">
+    <param name="publish_frequency" type="double" value="50.0" />
+  </node>
+  
+  <!-- Rviz -->
+  <node name="rviz" pkg="rviz" type="rviz" args="-d $(find mapping_assignment)/rviz/config.rviz"/>
+
+</launch>

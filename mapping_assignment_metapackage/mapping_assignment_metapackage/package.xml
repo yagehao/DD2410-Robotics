@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mapping_assignment_metapackage</name>
+  <version>0.1.0</version>
+  <description>Mapping assignment metapackage of the robotics course</description>
+  
+  <maintainer email="dduberg@kth.se">Daniel Duberg</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <exec_depend>mapping_assignment</exec_depend>
+  <exec_depend>turtlebot3_description</exec_depend>
+
+  <export>
+    <metapackage />
+  </export>
+  
+</package>
