@@ -1,0 +1,60 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/yage/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/aruco_ros/aruco/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/aruco_ros/aruco_ros/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/backward_ros/include/**",
+        "/home/yage/catkin_ws/src/beginner_tutorials/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/combined_robot_hw/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/combined_robot_hw_tests/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/controller_interface/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/controller_manager/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/controller_manager_tests/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/diff_drive_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/dynamic_introspection/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/eband_local_planner/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/effort_controllers/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/force_torque_sensor_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/forward_command_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/four_wheel_steering_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/gazebo_ros_pkgs/gazebo_plugins/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/gazebo_ros_pkgs/gazebo_ros/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/gazebo_ros_pkgs/gazebo_ros_control/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/gripper_action_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/hardware_interface/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_mapping/include/**",
+        "/home/yage/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/imu_sensor_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/joint_limits_interface/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/joint_state_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/joint_torque_sensor_state_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/joint_trajectory_controller/include/**",
+        "/home/yage/catkin_ws/src/learning_tf2/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/mode_state_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/pal_gazebo_plugins/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/pal_hardware_gazebo/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/pal_hardware_interfaces/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/pal_statistics/pal_statistics/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/play_motion/play_motion/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/position_controllers/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/temperature_sensor_controller/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/tf_lookup/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_control/transmission_interface/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/twist_mux/include/**",
+        "/home/yage/catkin_ws/src/robi_final_project/ros_controllers/velocity_controllers/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
